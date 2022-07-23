@@ -1,2 +1,2 @@
 # Tensorflow-dev-notes
-The note I took when taking the tensorflow dev course from deeplearning.ai
+The notes I took when taking the tensorflow dev course from deeplearning.ai
